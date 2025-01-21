@@ -33,4 +33,4 @@ This is a simple Java-based web application for a quiz game where users can answ
 1. **Clone the Repository**:
    Clone this repository to your local machine using the following command:
    ```bash
-   git clone [https://github.com/yourusername/quiz-web-app.git](https://github.com/iamyashchouhan/Quiz-Java-Web-App)
+   git clone https://github.com/iamyashchouhan/Quiz-Java-Web-App
