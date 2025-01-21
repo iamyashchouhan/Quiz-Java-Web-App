@@ -1,0 +1,42 @@
+[
+  {
+      "question": "What is the capital of France?",
+      "options": ["A) Berlin", "B) Madrid", "C) Paris", "D) Rome"],
+      "correctAnswer": "C"
+  },
+  {
+    "question": "2 +2 = ?",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "C"
+  },
+  {
+    "question": "gfgfdgfg?",
+    "options": ["A) Java", "B) Python", "C) JavaScript", "D) C++"],
+    "correctAnswer": "C"
+  },
+  {
+      "question": "Which language is used for web development?",
+      "options": ["A) Java", "B) Python", "C) JavaScript", "D) C++"],
+      "correctAnswer": "C"
+  },
+  {
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["A) J.K. Rowling", "B) Harper Lee", "C) Ernest Hemingway", "D) Mark Twain"],
+      "correctAnswer": "B"
+  },
+  {
+      "question": "What is the square root of 16?",
+      "options": ["A) 2", "B) 4", "C) 8", "D) 16"],
+      "correctAnswer": "B"
+  },
+  {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["A) Earth", "B) Mars", "C) Jupiter", "D) Venus"],
+      "correctAnswer": "B"
+  },
+  {
+      "question": "What is the largest animal on Earth?",
+      "options": ["A) Elephant", "B) Shark", "C) Blue Whale", "D) Giraffe"],
+      "correctAnswer": "C"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["A) Berlin", "B) Madrid", "C) Paris", "D) Rome"],
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Which language is used for web development?",
+    "options": ["A) Java", "B) Python", "C) JavaScript", "D) C++"],
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Who wrote 'To Kill a Mockingbird'?",
+    "options": ["A) J.K. Rowling", "B) Harper Lee", "C) Ernest Hemingway", "D) Mark Twain"],
+    "correctAnswer": "B"
+  },
+  {
+    "question": "What is the square root of 16?",
+    "options": ["A) 2", "B) 4", "C) 8", "D) 16"],
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["A) Earth", "B) Mars", "C) Jupiter", "D) Venus"],
+    "correctAnswer": "B"
+  },
+  {
+    "question": "What is the largest animal on Earth?",
+    "options": ["A) Elephant", "B) Shark", "C) Blue Whale", "D) Giraffe"],
+    "correctAnswer": "C"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "options": ["A) K2", "B) Mount Everest", "C) Kilimanjaro", "D) Mount Fuji"],
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["A) Vincent van Gogh", "B) Pablo Picasso", "C) Leonardo da Vinci", "D) Claude Monet"],
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "options": ["A) China", "B) Japan", "C) Korea", "D) Thailand"],
+    "correctAnswer": "B"
+  },
+  {
+    "question": "In which year did the Titanic sink?",
+    "options": ["A) 1905", "B) 1912", "C) 1920", "D) 1898"],
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Which is the smallest country in the world?",
+    "options": ["A) Monaco", "B) Vatican City", "C) San Marino", "D) Liechtenstein"],
+    "correctAnswer": "B"
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["A) Gold", "B) Iron", "C) Diamond", "D) Platinum"],
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Who is known as the Father of Modern Physics?",
+    "options": ["A) Isaac Newton", "B) Albert Einstein", "C) Nikola Tesla", "D) Galileo Galilei"],
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Which gas do plants absorb from the atmosphere for photosynthesis?",
+    "options": ["A) Oxygen", "B) Carbon Dioxide", "C) Nitrogen", "D) Hydrogen"],
+    "correctAnswer": "B"
+  },
+  {
+    "question": "What is the largest continent on Earth?",
+    "options": ["A) Africa", "B) Asia", "C) Europe", "D) North America"],
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Which element has the chemical symbol 'O'?",
+    "options": ["A) Oxygen", "B) Osmium", "C) Ozone", "D) Oganesson"],
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Which animal is known for its black and white stripes?",
+    "options": ["A) Lion", "B) Elephant", "C) Zebra", "D) Tiger"],
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Which planet is the closest to the Sun?",
+    "options": ["A) Earth", "B) Venus", "C) Mercury", "D) Mars"],
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Which famous scientist developed the theory of evolution?",
+    "options": ["A) Albert Einstein", "B) Isaac Newton", "C) Charles Darwin", "D) Galileo Galilei"],
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Who was the first President of the United States?",
+    "options": ["A) Abraham Lincoln", "B) George Washington", "C) Thomas Jefferson", "D) John Adams"],
+    "correctAnswer": "B"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": ["A) Atlantic Ocean", "B) Indian Ocean", "C) Arctic Ocean", "D) Pacific Ocean"],
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Which is the longest river in the world?",
+    "options": ["A) Amazon River", "B) Nile River", "C) Yangtze River", "D) Mississippi River"],
+    "correctAnswer": "B"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "options": ["A) Kyoto", "B) Osaka", "C) Tokyo", "D) Hiroshima"],
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Which is the largest desert in the world?",
+    "options": ["A) Sahara Desert", "B) Kalahari Desert", "C) Gobi Desert", "D) Arabian Desert"],
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Which fruit is known as the king of fruits?",
+    "options": ["A) Mango", "B) Banana", "C) Durian", "D) Pineapple"],
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Which country is famous for its pyramids?",
+    "options": ["A) Mexico", "B) Egypt", "C) Greece", "D) Italy"],
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Which is the smallest bone in the human body?",
+    "options": ["A) Femur", "B) Stapes", "C) Tibia", "D) Radius"],
+    "correctAnswer": "B"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["A) Au", "B) Ag", "C) Hg", "D) Fe"],
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Which is the hardest rock?",
+    "options": ["A) Granite", "B) Basalt", "C) Marble", "D) Diamond"],
+    "correctAnswer": "A"
+  },
+  {
+    "question": "In which year did the first man land on the Moon?",
+    "options": ["A) 1969", "B) 1971", "C) 1963", "D) 1957"],
+    "correctAnswer": "A"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "options": ["A) Tomato", "B) Avocado", "C) Onion", "D) Pepper"],
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Which country is famous for the Eiffel Tower?",
+    "options": ["A) Italy", "B) France", "C) Spain", "D) Germany"],
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Which planet is known for having rings?",
+    "options": ["A) Venus", "B) Mars", "C) Saturn", "D) Jupiter"],
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Which bird is known for its ability to mimic sounds?",
+    "options": ["A) Parrot", "B) Crow", "C) Eagle", "D) Sparrow"],
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Which body part is responsible for pumping blood?",
+    "options": ["A) Brain", "B) Stomach", "C) Heart", "D) Lungs"],
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Who is the author of '1984'?",
+    "options": ["A) Aldous Huxley", "B) George Orwell", "C) Mark Twain", "D) J.R.R. Tolkien"],
+    "correctAnswer": "B"
+  }
+]
