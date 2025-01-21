@@ -2,7 +2,7 @@
 
 This is a simple Java-based web application for a quiz game where users can answer 5 random questions each time. The questions are loaded from a JSON file, and the score is calculated based on user responses. Once the quiz is completed, users can see their score and can opt to play again.
 
-![Quiz Web Application](./images/quiz.jpg)
+![Quiz Web Application](./quiz-java-web-project.png)
 
 
 ## Features
